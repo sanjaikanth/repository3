@@ -1,0 +1,11 @@
+ head1.ms
+ Volume Serial Number is 462A-8F87
+
+ Directory of C:\Users\sanjai\Desktop\git
+
+11/04/2017  11:40 AM    <DIR>          .
+11/04/2017  11:40 AM    <DIR>          ..
+11/04/2017  11:40 AM                 0 test1.txt
+11/04/2017  11:40 AM                 0 text1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  777,850,621,952 bytes free
